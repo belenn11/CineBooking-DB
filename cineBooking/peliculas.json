@@ -1,0 +1,122 @@
+[
+	{
+		"id_pelicula": 1,
+		"titulo": "Memento",
+		"duracion": "01:55",
+		"director": "Christopher Nolan",
+		"origen": "Estados Unidos",
+		"formato": "2d"
+	},
+	{
+		"id_pelicula": 2,
+		"titulo": "Nueve reinas",
+		"duracion": "01:54",
+		"director": "Fabian Bielinsky",
+		"origen": "Argentina",
+		"formato": "2d"
+	},
+	{
+		"id_pelicula": 3,
+		"titulo": "Harry Potter y el caliz de fuego",
+		"duracion": "02:37",
+		"director": "Mike Newell",
+		"origen": "Reino Unido",
+		"formato": "3d"
+	},
+	{
+		"id_pelicula": 4,
+		"titulo": "Charly y la fabrica de chocolate",
+		"duracion": "01:56",
+		"director": "Tim Burton",
+		"origen": "Estados Unidos",
+		"formato": "3d"
+	},
+	{
+		"id_pelicula": 5,
+		"titulo": "El secreto de sus ojos",
+		"duracion": "02:09",
+		"director": "Juan Jose Campanella",
+		"origen": "Argentina",
+		"formato": "2d"
+	},
+	{
+		"id_pelicula": 6,
+		"titulo": "Relatos salvajes",
+		"duracion": "01:59",
+		"director": "Damian Szifron",
+		"origen": "Argentina",
+		"formato": "2d"
+	},
+	{
+		"id_pelicula": 7,
+		"titulo": "El codigo Enigma",
+		"duracion": "01:54",
+		"director": "Morten Tyldum",
+		"origen": "Reino Unido",
+		"formato": "2d"
+	},
+	{
+		"id_pelicula": 8,
+		"titulo": "Avatar",
+		"duracion": "02:41",
+		"director": "James Cameron",
+		"origen": "Estados Unidos",
+		"formato": "3d"
+	},
+	{
+		"id_pelicula": 9,
+		"titulo": "Mision imposible: sentencia final",
+		"duracion": "02:49",
+		"director": "Christopher McQuarrie",
+		"origen": "Estados Unidos",
+		"formato": "4d"
+	},
+	{
+		"id_pelicula": 10,
+		"titulo": "Lilo & Stich",
+		"duracion": "01:48",
+		"director": "Dean Fleischer-Camp",
+		"origen": "Estados Unidos",
+		"formato": "4d"
+	},
+	{
+		"id_pelicula": 11,
+		"titulo": "Roma",
+		"duracion": "02:15",
+		"director": "Dalfonso Cuaron",
+		"origen": "Mexico",
+		"formato": "2d"
+	},
+	{
+		"id_pelicula": 12,
+		"titulo": "Un asunto de familia",
+		"duracion": "02:01",
+		"director": "Hirokazu Koreeda",
+		"origen": "Japon",
+		"formato": "2d"
+	},
+	{
+		"id_pelicula": 13,
+		"titulo": "La sociedad de la nieve",
+		"duracion": "02:24",
+		"director": "Juan Antonio Bayona",
+		"origen": "España",
+		"formato": "2d"
+	},
+	{
+		"id_pelicula": 14,
+		"titulo": "El señor de los anillos: Las dos torres",
+		"duracion": "02:59",
+		"director": "Peter Jackson",
+		"origen": "Nueva Zelandia",
+		"formato": "3d"
+	},
+	{
+		"id_pelicula": 15,
+		"titulo": "Los increibles",
+		"duracion": "01:55",
+		"director": "Brad Bird",
+		"origen": "Estados Unidos",
+		"formato": "2d"
+	}
+]

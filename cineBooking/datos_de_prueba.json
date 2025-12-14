@@ -1,0 +1,95 @@
+[
+ {
+   "id_orden": 1,
+   "operacion": "nueva funcion",
+   "id_sala": 2,
+   "f_inicio": "2025-06-27 15:00",
+   "id_pelicula": 3
+ },
+ {
+   "id_orden": 2,
+   "operacion": "nueva funcion",
+   "id_sala": 1,
+   "f_inicio": "2025-06-27 14:00",
+   "id_pelicula": 6
+ },
+ {
+   "id_orden": 3,
+   "operacion": "nueva funcion",
+   "id_sala": 9,
+   "f_inicio": "2025-06-27 15:00",
+   "id_pelicula": 3
+ },
+ {
+   "id_orden": 4,
+   "operacion": "reserva butaca",
+   "id_funcion": 1,
+   "nro_fila": 13,
+   "nro_butaca": 14,
+   "id_cliente": 15
+ },
+ {
+   "id_orden": 5,
+   "operacion": "reserva butaca",
+   "id_funcion": 1,
+   "nro_fila": 10,
+   "nro_butaca": 5,
+   "id_cliente": 15
+ },
+ {
+   "id_orden": 6,
+   "operacion": "compra butaca",
+   "id_funcion": 3,
+   "nro_fila": 1,
+   "nro_butaca": 1,
+   "id_cliente": 10
+ },
+ {
+   "id_orden": 7,
+   "operacion": "compra butaca",
+   "id_funcion": 1,
+   "nro_fila": 10,
+   "nro_butaca": 6,
+   "id_cliente": 15
+ },
+ {
+   "id_orden": 8,
+   "operacion": "compra butaca",
+   "id_funcion": 1,
+   "nro_fila": 10,
+   "nro_butaca": 5,
+   "id_cliente": 8
+ },
+ {
+   "id_orden": 9,
+   "operacion": "compra butaca",
+   "id_funcion": 1,
+   "nro_fila": 10,
+   "nro_butaca": 5,
+   "id_cliente": 15
+ },
+ {
+   "id_orden": 10,
+   "operacion": "compra butaca",
+   "id_funcion": 2,
+   "nro_fila": 19,
+   "nro_butaca": 10,
+   "id_cliente": 1
+ },
+ {
+   "id_orden": 11,
+   "operacion": "reserva butaca",
+   "id_funcion": 2,
+   "nro_fila": 18,
+   "nro_butaca": 5,
+   "id_cliente": 20
+ },
+ {
+   "id_orden": 12,
+   "operacion": "anulacion reserva",
+   "id_funcion": 2,
+   "nro_fila": 18,
+   "nro_butaca": 5,
+   "id_cliente": 20
+ }
+]
